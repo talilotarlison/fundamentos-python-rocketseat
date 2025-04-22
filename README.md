@@ -1,4 +1,4 @@
-# Fundamentos de Python - Rockseat
+# Fundamentos de Python - Rocketseat
 
 Bem-vindo ao repositório **Fundamentos de Python**! Este projeto foi criado com o objetivo de ensinar os conceitos básicos e essenciais da linguagem Python de forma prática e objetiva.
 
